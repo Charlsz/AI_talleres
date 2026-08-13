@@ -1,7 +1,7 @@
-# grupo15
+# grupo 15
 
-| Nombre |
+| Nombres |
 |---|
 | Galvis Pajaro, Carlos |
 | Molina Vega, Dayana |
-| Romaro Pemberthy, Juan |
+| Romero Pemberthy, Juan |
